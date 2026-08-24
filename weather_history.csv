@@ -1,0 +1,8 @@
+search_time,city,state,country,temperature,feels_like,condition,humidity,wind_speed
+2026-08-24 19:40:45.617564,Austin,Texas,US,34.95,38.06,scattered clouds,43,2.24
+2026-08-24 19:42:22.796213,London,,GB,20.97,20.43,broken clouds,50,9.26
+2026-08-24 19:43:03.093575,Paris,,FR,25.73,25.35,broken clouds,38,6.69
+2026-08-24 19:43:30.218412,Tokyo,,JP,28.48,32.97,few clouds,78,5.14
+2026-08-24 20:42:10.442212,Jalam,,YE,31.13,30.53,few clouds,36,1.44
+2026-08-24 20:43:02.296724,Jalam,,YE,31.13,30.53,few clouds,36,1.44
+2026-08-24 21:52:04.367201,Jerusalem,,IL,22.73,22.91,clear sky,71,2.5
